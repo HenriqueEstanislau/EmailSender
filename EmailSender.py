@@ -24,7 +24,7 @@ def bt_click():
         msg.set_payload(body)
         if msg['From'] != "" and msg['To'] != "" and password != "":
             context = ssl.create_default_context()
-            with smtplib.SMTP('smtp.gmail.com', 587) as conexao:
+            with smtplib.SMTP('smtp.gmail.com', 587) as conexao: #if the sender's address is hotmail, switch to "smtp-mail.outlook.com" or yahoo to "smtp.mail.yahoo.com"
                 conexao.ehlo()
                 conexao.starttls(context=context)
                 conexao.login(msg['From'], password)
