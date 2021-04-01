@@ -14,7 +14,7 @@ And also a code editor like [Visual Studio Code](https://code.visualstudio.com/)
 git clone https://github.com/HenriqueEstanislau/EmailSender.git
 
 # if you just want to run the project go to the folder and type
-python EmailSender.py
+python3 EmailSender.py
 ```
 
 ## Hot to set up email
