@@ -15,12 +15,10 @@ python EmailSender.py
 ```
 
 ## Hot to set up email
-First log into your account, later go to "Manage your Google Account" and "Security". So, go to "Less secure app access" and turn on access ON. &nbsp; &nbsp;
-&nbsp;
-![gifconfiguracao](https://user-images.githubusercontent.com/65318224/113228591-955d2e80-926b-11eb-9237-482bcdd5591e.gif)
-&nbsp;&nbsp;&nbsp;
-You now need to access: https://accounts.google.com/DisplayUnlockCaptcha
-And click the Continue button
+First log into your account, later go to "Manage your Google Account" and "Security". So, go to "Less secure app access" and turn on access ON.  
+![gifconfiguracao](https://user-images.githubusercontent.com/65318224/113228591-955d2e80-926b-11eb-9237-482bcdd5591e.gif)  
+You now need to access: https://accounts.google.com/DisplayUnlockCaptcha  
+And click the Continue button  
 
 ## Features :hammer_and_wrench:
 Tools used in the construction of the project:
